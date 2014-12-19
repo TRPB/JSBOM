@@ -1,5 +1,4 @@
 <?php 
-opcache_reset();
 
 
 $file = $_GET['file'];
