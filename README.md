@@ -54,7 +54,7 @@ Usage
 Include the file on your page through jsbomb.php and it's compiled on the fly
 
 ```html
-<script src="jsbomb.php?file=test.jsb"></script
+<script src="jsbomb.php?file=test.jsb"></script>
 
 ```
 
